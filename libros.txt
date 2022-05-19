@@ -1,0 +1,10 @@
+El Capitan Alatriste,Arturo Perez Reverte,Alfaguara,8411145678900,2022-03-16,true
+El maestro de esgrima,Arturo Perez Reverte,Alfaguara,978-84-95501-55-4,null,false
+El quijote,Cervantes,Alfaguara,978-84-322-3637-2,2022-02-15,true
+Matar al Rey,Jose Luis Corral,Ediciones B,978-84-666-7121-7,null,false
+Las llanuras del transito,J.M. Auel,Maeva,978-84-16087-34-1,null,false
+A traves de mi ventana,Ariana Godoy,Alfaguara,978-84-204-5191-6,2022-03-20,true
+Antes de diciembre,Joana Marcus,Montena,978-84-18949-13-5,null,false
+El Caballero del Jubon Amarillo,Arturo Perez Reverte,Alfaguara,978-84-18949-13-5,2022-03-18,true
+Encuentra tu persona vitamina,Maria de la O,Espasa,978-84-670-6221-2,2022-03-14,true
+El clan del oso cavernario,J.M. Auel,Maeva,978-84-86478-01-8,null,false
